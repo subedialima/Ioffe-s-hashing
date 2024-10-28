@@ -1,10 +1,10 @@
-#include <iostream>       // For std::cout, std::cerr
-#include <vector>         // For std::vector
-#include <random>         // For random number generation
-#include <stdexcept>      // For std::invalid_argument
-#include <cmath>          // For log, exp, floor
-#include <limits>         // For std::numeric_limits
-#include <utility>        // For std::pair
+#include <iostream>       
+#include <vector>         
+#include <random>         
+#include <stdexcept>      
+#include <cmath>          
+#include <limits>         
+#include <utility>        
 
 using namespace std;
 
